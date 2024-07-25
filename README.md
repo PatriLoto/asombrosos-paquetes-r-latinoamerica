@@ -18,7 +18,9 @@ para el acceso, procesamiento, visualización y comunicación de datos.
 desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 [contribuciones](#propuesta-de-paquetes), todas son más que bienvenidas.
 
-<br> \## Temáticas (en función del objetivo principal del paquete)
+<br>
+
+## Temáticas (en función del objetivo principal del paquete)
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
@@ -32,6 +34,19 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   :chile:\] - Proporciona un conjunto de funciones para realizar
   estadistica descriptiva e inferencia con el disenio complejo de la
   encuesta CASEN. Autor/es: M. Vargas, Kirill Müller
+- <img
+  src="https://github.com/ipeaGIT/censobr/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://ipeagit.github.io/censobr/">censobr</a> - \[Brazil
+  :brazil:\] - Es un paquete para descargar datos del Censo de Población
+  en Brasil. Autor/es: Rafael H. M. Pereira, Ipea - Institute for
+  Applied Economic Research
+- <a href="https://github.com/CEProduccionXXI/DatosAbiertosCEP">DatosAbiertosCEP</a> -
+  \[Argentina :argentina:\] - La librería DatosAbiertosCEP tiene por
+  objetivo colaborar en el acceso y procesamiento de los datos puestos
+  disposición por el Centro de Estudios para la Producción XXI, en la
+  página de Datos Abiertos de la Secretaría de Industria y Desarrollo
+  Productivo del Ministerio de Economía.. Autor/es: Nicolas Sidicaro
 - <img
   src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true"
   width="30" height="30" />
@@ -94,6 +109,18 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   \[Chile :chile:\] - Mapas terrestres de Chile con topologias
   simplificadas. Autor/es: M. Vargas
 - <img
+  src="https://github.com/ManuelSpinola/cageo/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://manuelspinola.github.io/cageo/">cageo</a> - \[Costa
+  Rica :costa rica:\] - cageo es un paquete de R que contiene datos
+  geoespaciales de América Central.. Autor/es: Manuel Spínola
+- <img
+  src="https://github.com/ManuelSpinola/crgeo/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://manuelspinola.github.io/crgeo/">crgeo</a> - \[Costa
+  Rica :costa rica:\] - crgeo es un paquete de R que contiene datos
+  geoespaciales de Costa Rica. Autor/es: Manuel Spínola
+- <img
   src="https://github.com/PoliticaArgentina/geoAr/raw/main/man/figures/logo.png"
   width="30" height="30" />
   <a href="https://github.com/PoliticaArgentina/geoAr">geoAr</a> -
@@ -130,11 +157,6 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 ### Acceso y procesamiento de información sobre temáticas específicas
 
 - <img
-  src="https://agusnieto77.github.io/ACEP/logo.svg"
-  width="30" height="30" />
-  <a href="https://github.com/agusnieto77/ACEP.">ACEP</a> -
-  \[Argentina :argentina:\] Conjunto de funciones utiles para la deteccion y el analisis de eventos de protesta en corpus de textos periodisticos. Contiene tambien bases de datos con colecciones de notas y diccionarios de palabras conflictivas. Autor/es: Agustín Nieto
-- <img
   src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png"
   width="30" height="30" />
   <a href="https://github.com/AgRoMeteorologiaINTA/agromet">agromet</a> -
@@ -156,6 +178,17 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   (Clasificación Internacional Normalizada de la Educación) para el Perú
   publicada por el INEI (Instituto Nacional de Estadística e
   Informática). Autor/es: Jorge L. C. Musaja
+- <img
+  src="https://github.com/ropensci/concstats/blob/master/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://docs.ropensci.org/concstats/">concstats</a> -
+  \[Paraguay :paraguay:\] - El objetivo del paquete concstats es
+  proporcionar un conjunto de medidas alternativas y/o adicionales para
+  investigadores en ciencias sociales y profesionales en instituciones
+  relacionadas con la competencia de manera regular, con el fin de
+  determinar mejor la estructura de un mercado dado y, por lo tanto,
+  reducir la incertidumbre con respecto a una situación de mercado
+  específica.. Autor/es: Andreas Schneider
 - <img
   src="https://camo.githubusercontent.com/48a6848fa54967a8e4113fe6e55ecbd14b855de6c169ac75ed6c5fbfc1991ad8/68747470733a2f2f656c696f63616d702e6769746875622e696f2f6d6574522f7265666572656e63652f666967757265732f6c6f676f2e706e67"
   width="30" height="30" />
@@ -226,16 +259,17 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 - <img
   src="https://github.com/eliocamp/ggperiodic/raw/master/man/figures/logo.png"
   width="30" height="30" />
-  <a href="https://github.com/eliocamp/ggperiodic">ggperiodic</a> - -
-  ggperiodic is an attempt to solve the issue of plotting periodic data
-  in ggplot2. It automatically augments your data to wrap it around to
-  any arbitrary domain. Autor/es: Elio Campitelli
+  <a href="https://github.com/eliocamp/ggperiodic">ggperiodic</a> -
+  \[Argentina :argentina:\] - ggperiodic is an attempt to solve the
+  issue of plotting periodic data in ggplot2. It automatically augments
+  your data to wrap it around to any arbitrary domain. Autor/es: Elio
+  Campitelli
 - <img
   src="https://camo.githubusercontent.com/832610c74855a838332287661c9382517654248ce5cc90fb7649000f4538d56c/68747470733a2f2f656c696f63616d702e6769746875622e696f2f67676e65777363616c652f7265666572656e63652f666967757265732f6c6f676f2e706e67"
   width="30" height="30" />
-  <a href="https://eliocamp.github.io/ggnewscale/">ggnewscale</a> - -
-  Paquete que intenta hacer menos doloroso el uso de de múltiples
-  escalas en ggplot2. Autor/es: Elio Campitelli
+  <a href="https://eliocamp.github.io/ggnewscale/">ggnewscale</a> -
+  \[Argentina :argentina:\] - Paquete que intenta hacer menos doloroso
+  el uso de de múltiples escalas en ggplot2. Autor/es: Elio Campitelli
 - <img
   src="https://github.com/musajajorge/makePalette/raw/main/imgs/hex_emblema_makePalette.png"
   width="30" height="30" />
@@ -284,6 +318,14 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 
 ### Enseñanza \| Pedagogía
 
+- <img
+  src="https://github.com/arthurwelle/codehover/blob/master/docs/HexSticker/HexSticker.png"
+  width="30" height="30" />
+  <a href="https://arthurwelle.github.io/codehover/articles/codehover_intro.html">codehover</a> -
+  \[Brazil :brazil:\] - El objetivo de codehover es facilitar la
+  creación de una tabla HTML con un efecto de desplazamiento
+  (JavaScript/JQuery + CSS) que muestra imágenes justo debajo de dicha
+  tabla de forma sencilla.. Autor/es: Arthur Welle
 - <a href="https://eliocamp.github.io/metamer/#metamer">metamer</a> - -
   Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017)
   para crear metamers (conjuntos de datos con propiedades estadísticas
